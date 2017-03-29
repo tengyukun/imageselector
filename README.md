@@ -18,11 +18,11 @@
     
     
     repositories {
-            maven { url "https://jitpack.io" }
+            maven { url 'https://jitpack.io' }
     }
     
     dependencies {
-        compile 'com.github.lovetuzitong:MultiImageSelector:1.2'
+        compile 'com.github.tengyukun:imageselector:v1.1'
     }
   
 #### 第1步 在你的 AndroidManifest.xml 中做如下声明:
