@@ -3,7 +3,7 @@
 
  [原作者地址](https://github.com/lovetuzitong/MultiImageSelector/blob/master/README_zh.md)
  
- 仿微信实现多图选择。支持单选和多选两种模式
+ ##### 仿微信实现多图选择。支持单选和多选两种模式
  ![](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_1.png)
  ![](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/example_1.png)
  ![](https://github.com/lovetuzitong/MultiImageSelector/blob/master/art/select_2.png)
